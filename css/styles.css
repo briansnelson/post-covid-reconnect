@@ -1,5 +1,5 @@
 
-body { background-color: rgb(34, 36, 146); font-family: Cambria; }
+body { background-color: rgb(134, 135, 184); font-family: Cambria; color}
 <style>
  * { box-sizing: border-box }
  header { border-style: solid; }
@@ -10,28 +10,4 @@ body { background-color: rgb(34, 36, 146); font-family: Cambria; }
  }
 
 
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-<div class="row">
-  <div class="column">
-    <img src="image/mtrainier.jpeg" alt="Mountain style="width:100%">
-  </div>
-  <div class="column">
-    <img src="image/Puget Sound.jpeg" alt="Sea" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="image/Seattle Night Life.jpeg" alt="Citylife" style="width:100%">
-  </div>
-</div>
-</style>
 
