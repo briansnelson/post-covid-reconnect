@@ -8,6 +8,9 @@ body { background-color: rgb(134, 135, 184); font-family: Cambria; color}
      border: 1px solid #021a40;
      background-color: #ff0;
  }
+#buy1 { float: center }
+#buy2 { float: center }
+#buy3 { float:center }
 
 
 
